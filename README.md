@@ -11,3 +11,5 @@ Organization or Organisation,is an entity such as a company,an institution,or an
 
 **My major emphasis in this repository is to look at the sub set of an NGO**,and that is **Community based organizations** **(CBOS)**
 # community based organizations **(CBOS)**
+
+![](Images/IMG_20220427_155515_551.jpg)
