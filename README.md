@@ -8,3 +8,5 @@ Organization or Organisation,is an entity such as a company,an institution,or an
 - project organization
 - matrix organization
 - committee organization 
+My major emphasis in this repository is to look at .
+# community based organizations
