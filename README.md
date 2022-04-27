@@ -9,5 +9,5 @@ Organization or Organisation,is an entity such as a company,an institution,or an
 - matrix organization
 - committee organization 
 
-**My major emphasis in this repository is to look at** .
+**My major emphasis in this repository is to look at the sub set of an NGO**,and that is **Community based organizations** **(CBOS)**
 # community based organizations **(CBOS)**
